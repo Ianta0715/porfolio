@@ -38,7 +38,7 @@ export const PortfolioInitialpage = () => {
                 <div className="card-body">
                     <h5 className="card-title">Heros App</h5>
                     <p className="card-text">In this App there are diferent types of &lt;Routes&gt; (privates and publics),just by login in you can see all the app,enjoy it.</p>
-                        <a href="https://iantarquini15.github.io/heroApp/#/marvel" target='_blank' className="btn btn-primary">Visit</a>
+                        <a href="https://iantarquini15.github.io/heroApp/" target='_blank' className="btn btn-primary">Visit</a>
                     </div>
                     
                 </div>
