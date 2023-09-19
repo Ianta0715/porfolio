@@ -16,7 +16,7 @@ export const PortfolioInitialpage = () => {
                     
                     <h5 style={{marginTop:'3rem'}}>I made this portfolio to show all my personal proyect so here I leave you all my works and also to let you know all my favorities things in life,enjoy.</h5>
                 </div>
-               <div> <img style={{ width: '310px', height: '290px',borderRadius:'3rem', alignItems:'flex-end', margin: '2rem 0 1rem 9rem', }} src='../../../assets/foto-perfil.jpg' alt="Perfil Photo" />
+               <div> <img style={{ width: '310px', height: '290px',borderRadius:'3rem', alignItems:'flex-end', margin: '2rem 0 1rem 9rem', }} src='./assets/foto-perfil.jpg' alt="Perfil Photo" />
                     <h4>WEB DEVELOPMENT AND PROGRAMMING STUDENT</h4>
                 </div>
             </div>
@@ -24,7 +24,7 @@ export const PortfolioInitialpage = () => {
             <div style={{ display: 'flex', marginTop: '4rem', alignItems: 'center', justifyContent: 'center' }}>
                 
             <div className="card" style={{ width: '18rem',margin:'1rem' }}>
-                <img src='../../../assets/gifs.png' className="card-img-top" alt="..." />
+                <img src='./assets/gifs.png' className="card-img-top" alt="..." />
                 
                     <div className="card-body">
                         <h5 className="card-title">Gif App</h5>
@@ -33,7 +33,7 @@ export const PortfolioInitialpage = () => {
                     </div>
             </div>
             <div className="card" style={{ width: '18rem', margin: '2rem' }}>
-                <img src='../../../assets/heros.png' className="card-img-top" alt="..." />
+                <img src='./assets/heros.png' className="card-img-top" alt="..." />
 
                 <div className="card-body">
                     <h5 className="card-title">Heros App</h5>
@@ -43,7 +43,7 @@ export const PortfolioInitialpage = () => {
                     
                 </div>
                 <div className="card" style={{ width: '18rem', margin: '2rem' }}>
-                    <img src='../../../assets/budget.png' className="card-img-top" alt="..." />
+                    <img src='./assets/budget.png' className="card-img-top" alt="..." />
 
                     <div className="card-body">
                         <h5 className="card-title">Budget App</h5>
@@ -57,26 +57,26 @@ export const PortfolioInitialpage = () => {
             <h3 style={{ margin: '3rem 0 0 2rem',marginBottom:'4rem'}}><u>Things that I like the most in life:</u></h3>
             <div className='wraper'>
                 <div className='track'>
-                    <div className='logo'> <img src='../../../assets/asado1.JPG'
+                    <div className='logo'> <img src='./assets/asado1.JPG'
                      alt="" /></div>
-                    <div className='logo'> <img src='../../../assets/asado2.JPG' alt="" />
+                    <div className='logo'> <img src='./assets/asado2.JPG' alt="" />
                     </div>
-                    <div className='logo'> <img src='../../../assets/asado3.JPG' alt="" />
+                    <div className='logo'> <img src='./assets/asado3.JPG' alt="" />
                     </div>
-                    <div className='logo'> <img src='../../../assets/asado4.JPG' alt="" />
+                    <div className='logo'> <img src='./assets/asado4.JPG' alt="" />
                     </div>
-                    <div className='logo'> <img src='../../../assets/asado5.JPG' alt="" />
+                    <div className='logo'> <img src='./assets/asado5.JPG' alt="" />
                     </div>
-                    <div className='logo'> <img src='../../../assets/asado6.JPG' alt="" />
+                    <div className='logo'> <img src='./assets/asado6.JPG' alt="" />
                     </div>
                     
-                    <div className='logo'> <img src='../../../assets/asado8.JPG' alt="" />
+                    <div className='logo'> <img src='./assets/asado8.JPG' alt="" />
                     </div>
-                    <div className='logo'> <img src='../../../assets/asado9.JPG' alt="" />
+                    <div className='logo'> <img src='./assets/asado9.JPG' alt="" />
                     </div>
-                    <div className='logo'> <img src='../../../assets/asado10.JPG' alt="" />
+                    <div className='logo'> <img src='./assets/asado10.JPG' alt="" />
                     </div>
-                    <div className='logo'> <img src='../../../assets/asado11.JPG' alt="" />
+                    <div className='logo'> <img src='./assets/asado11.JPG' alt="" />
                     </div>
                 </div>
                 <h5 style={{ backgroundColor: 'rgba(250, 235, 215, 0.438)', padding: '4rem 1rem 4rem 1rem', fontSize: '1.4rem' }}>Besides from coding.
@@ -86,30 +86,30 @@ export const PortfolioInitialpage = () => {
             <hr style={{margin:'6rem 0 2rem 0'}}/>
             <div className='wraper' style={{margin:'4rem 0 0 0'}}>
                 <div className='track'>
-                    <div className='logo'> <img src='../../../assets/Coliseo,Rom.jpeg'
+                    <div className='logo'> <img src='./assets/Coliseo,Rom.jpeg'
                         alt="" />
                         <div style={{marginLeft:'1rem', color:'antiquewhite'}} class="centrado">Coliseo,ROM</div>
                     </div>
-                    <div className='logo'> <img src='../../../assets/Castello sant Angelo,Rom.jpeg' alt="" />
+                    <div className='logo'> <img src='./assets/Castello sant Angelo,Rom.jpeg' alt="" />
                         <div style={{ marginLeft: '1rem',color: 'antiquewhite' }} class="centrado">Castello Sant Angelo,ROM</div>
                     </div>
-                    <div className='logo'> <img src='../../../assets/Castello sant Angelo 2.jpeg' alt="" />
+                    <div className='logo'> <img src='./assets/Castello sant Angelo 2.jpeg' alt="" />
                         <div style={{ marginLeft: '1rem', color: 'antiquewhite' }} class="centrado">Castello Sant Angelo,ROM</div>
                     </div>
-                    <div className='logo'> <img src='../../../assets/Savona,Ita.jpeg' alt="" />
+                    <div className='logo'> <img src='./assets/Savona,Ita.jpeg' alt="" />
                         <div style={{ marginLeft: '1rem', color: 'antiquewhite' }} class="centrado">Savona</div>
                     </div>
-                    <div className='logo'> <img src='../../../assets/Roma,Ita.jpeg' alt="" />
+                    <div className='logo'> <img src='./assets/Roma,Ita.jpeg' alt="" />
                         <div style={{ marginLeft: '1rem', color: 'antiquewhite' }} class="centrado">Rome</div>
                     </div>
-                    <div className='logo'> <img src='../../../assets/Bocca della Verita.jpeg' alt="" />
+                    <div className='logo'> <img src='./assets/Bocca della Verita.jpeg' alt="" />
                         <div style={{ marginLeft: '1rem', color: 'antiquewhite' }} class="centrado">Rome</div>
                     </div>
 
-                    <div className='logo'> <img src='../../../assets/Baticano,Rom.jpeg' alt="" />
+                    <div className='logo'> <img src='./assets/Baticano,Rom.jpeg' alt="" />
                         <div style={{ marginLeft: '1rem', color: 'antiquewhite' }} class="centrado">Baticano</div>
                     </div>
-                    <div className='logo'> <img src='../../../assets/Milan,Ita.jpeg' alt="" />
+                    <div className='logo'> <img src='./assets/Milan,Ita.jpeg' alt="" />
                         <div style={{ marginLeft: '1rem', color: 'antiquewhite' }} class="centrado">Milan</div>
                     </div>
                     
