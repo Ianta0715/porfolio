@@ -50,6 +50,18 @@ export const PortfolioInitialpage = () => {
                         <p className="card-text">In this App a compani ask for a budget aplication that can manage their amounts of money in dirent deparments as they wanto to.</p>
                         <a href="https://budget-my-app.netlify.app/" target='_blank' className="btn btn-primary">Visit</a>
                     </div>
+                    
+
+                </div>
+                <div className="card" style={{ width: '18rem', margin: '2rem' }}>
+                    <img src='./assets/budget.png' className="card-img-top" alt="..." />
+
+                    <div className="card-body">
+                        <h5 className="card-title">Budget App</h5>
+                        <p className="card-text">In this App a compani ask for a budget aplication that can manage their amounts of money in dirent deparments as they wanto to.</p>
+                        <a href="https://budget-my-app.netlify.app/" target='_blank' className="btn btn-primary">Visit</a>
+                    </div>
+
 
                 </div>
             </div>
