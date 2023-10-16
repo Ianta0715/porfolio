@@ -133,7 +133,7 @@ export const PortfolioInitialpage = () => {
 
             <footer style={{ backgroundColor: 'rgba(250, 235, 215, 0.438)', padding: '2rem', borderRadius: '1rem',margin:'6rem 0 0 0',width:'40%' }}>
                 <h3><u>Contact:</u></h3>
-                <h5><i class="fa-solid fa-envelope"></i> <a href="https://mail.google.com/mail/u/0/#inbox" style={{ color: 'black', textDecoration:'none'}}>iantarquini4.gmail.com</a></h5>
+                <h5><i class="fa-solid fa-envelope"></i> <a href="https://mail.google.com/mail/u/0/#inbox" style={{ color: 'black', textDecoration:'none'}}>iantarquini4@gmail.com</a></h5>
                 <h5><i class="fa-brands fa-github"></i> <a href="https://github.com/iantarquini15" style={{color:'black',textDecoration:'none'}}>iantarquini15</a></h5>
                 <h5><i class="fa-brands fa-linkedin"> </i> <a href="https://www.linkedin.com/in/ian-tarquini-b83b72247/" style={{ color: 'black', textDecoration: 'none' }}>Ian Tarquini</a></h5>
             </footer>
